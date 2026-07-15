@@ -1,0 +1,70 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#050816"/>
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#4F8CFF"/>
+      <stop offset="100%" stop-color="#7DD3FC"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="20%" cy="20%" r="50%">
+      <stop offset="0%" stop-color="#4F8CFF" stop-opacity="0.3"/>
+      <stop offset="100%" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="80%" cy="80%" r="50%">
+      <stop offset="0%" stop-color="#7DD3FC" stop-opacity="0.25"/>
+      <stop offset="100%" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="630" fill="url(#glow1)"/>
+  <rect width="1200" height="630" fill="url(#glow2)"/>
+
+  <!-- Grid pattern -->
+  <g opacity="0.08" stroke="#4F8CFF" stroke-width="1">
+    <line x1="0" y1="105" x2="1200" y2="105"/>
+    <line x1="0" y1="210" x2="1200" y2="210"/>
+    <line x1="0" y1="315" x2="1200" y2="315"/>
+    <line x1="0" y1="420" x2="1200" y2="420"/>
+    <line x1="0" y1="525" x2="1200" y2="525"/>
+    <line x1="100" y1="0" x2="100" y2="630"/>
+    <line x1="200" y1="0" x2="200" y2="630"/>
+    <line x1="300" y1="0" x2="300" y2="630"/>
+    <line x1="400" y1="0" x2="400" y2="630"/>
+    <line x1="500" y1="0" x2="500" y2="630"/>
+    <line x1="600" y1="0" x2="600" y2="630"/>
+    <line x1="700" y1="0" x2="700" y2="630"/>
+    <line x1="800" y1="0" x2="800" y2="630"/>
+    <line x1="900" y1="0" x2="900" y2="630"/>
+    <line x1="1000" y1="0" x2="1000" y2="630"/>
+    <line x1="1100" y1="0" x2="1100" y2="630"/>
+  </g>
+
+  <!-- Logo -->
+  <text x="80" y="120" font-family="Arial, sans-serif" font-size="48" font-weight="700" fill="url(#g1)">REVERA</text>
+  <text x="82" y="160" font-family="Arial, sans-serif" font-size="20" fill="#6EA8FF" opacity="0.8">AI AUTOMATION & WEB DEVELOPMENT</text>
+
+  <!-- Headline -->
+  <text x="80" y="320" font-family="Arial, sans-serif" font-size="84" font-weight="700" fill="#FFFFFF">Automate Your</text>
+  <text x="80" y="420" font-family="Arial, sans-serif" font-size="84" font-weight="700" fill="url(#g1)">Business With AI</text>
+
+  <!-- Subtitle -->
+  <text x="82" y="490" font-family="Arial, sans-serif" font-size="26" fill="#B8C4E0">AI Receptionists · AI Chatbots · Websites</text>
+
+  <!-- Stat badges -->
+  <g>
+    <rect x="82" y="530" width="160" height="60" rx="12" fill="#4F8CFF" fill-opacity="0.12" stroke="#4F8CFF" stroke-opacity="0.3"/>
+    <text x="162" y="568" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#FFFFFF" text-anchor="middle">500+</text>
+    <text x="162" y="585" font-family="Arial, sans-serif" font-size="13" fill="#9FB3D9" text-anchor="middle">Hours Saved</text>
+
+    <rect x="262" y="530" width="160" height="60" rx="12" fill="#7DD3FC" fill-opacity="0.12" stroke="#7DD3FC" stroke-opacity="0.3"/>
+    <text x="342" y="568" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#FFFFFF" text-anchor="middle">98%</text>
+    <text x="342" y="585" font-family="Arial, sans-serif" font-size="13" fill="#9FB3D9" text-anchor="middle">Satisfaction</text>
+
+    <rect x="442" y="530" width="160" height="60" rx="12" fill="#6EA8FF" fill-opacity="0.12" stroke="#6EA8FF" stroke-opacity="0.3"/>
+    <text x="522" y="568" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#FFFFFF" text-anchor="middle">24/7</text>
+    <text x="522" y="585" font-family="Arial, sans-serif" font-size="13" fill="#9FB3D9" text-anchor="middle">AI Available</text>
+  </g>
+
+  <!-- Orb decoration -->
+  <circle cx="1000" cy="200" r="120" fill="url(#g1)" opacity="0.15"/>
+  <circle cx="1080" cy="420" r="80" fill="#7DD3FC" opacity="0.12"/>
+</svg>

@@ -1,0 +1,16 @@
+{
+  "name": "REVERA — AI Automation Agency",
+  "short_name": "REVERA",
+  "description": "Premium AI Automation & Web Development agency helping Australian businesses grow with AI.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050816",
+  "theme_color": "#050816",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

@@ -18,7 +18,7 @@ import { Testimonials } from '@/components/Testimonials';
 import { FAQ } from '@/components/FAQ';
 import { CTA } from '@/components/CTA';
 import { DashboardPreview } from '@/components/DashboardPreview';
-import { Button } from '@/components/ui/Button';
+import { Button } from '@/components/ui/button';
 import { unsplashImages } from '@/lib/utils';
 
 const services = [

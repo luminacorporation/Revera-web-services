@@ -4,7 +4,7 @@ import { useState } from 'react';
 import { motion } from 'framer-motion';
 import { Calendar, Clock, Video, CheckCircle2, Sparkles } from 'lucide-react';
 import { PageHeader } from '@/components/PageHeader';
-import { Button } from '@/components/ui/Button';
+import { Button } from '@/components/ui/button';
 import { saveBookingRequest } from '@/lib/supabase';
 
 const timeSlots = ['9:00 AM', '10:00 AM', '11:00 AM', '1:00 PM', '2:00 PM', '3:00 PM', '4:00 PM'];

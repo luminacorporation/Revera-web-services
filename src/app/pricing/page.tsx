@@ -6,7 +6,7 @@ import { Check, Sparkles, ArrowRight } from 'lucide-react';
 import { PageHeader } from '@/components/PageHeader';
 import { PricingCard } from '@/components/PricingCard';
 import { CTA } from '@/components/CTA';
-import { Button } from '@/components/ui/Button';
+import { Button } from '@/components/ui/button';
 import { pricingPlans } from '@/lib/stripe';
 
 const faqs = [

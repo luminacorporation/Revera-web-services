@@ -21,7 +21,7 @@ import {
 import { PageHeader } from '@/components/PageHeader';
 import { ServiceCard } from '@/components/ServiceCard';
 import { CTA } from '@/components/CTA';
-import { Button } from '@/components/ui/Button';
+import { Button } from '@/components/ui/button';
 import { unsplashImages } from '@/lib/utils';
 
 const services = [

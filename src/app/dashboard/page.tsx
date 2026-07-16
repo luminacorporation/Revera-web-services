@@ -19,7 +19,7 @@ import {
   Bot,
   LogOut,
 } from 'lucide-react';
-import { Button } from '@/components/ui/Button';
+import { Button } from '@/components/ui/button';
 import { unsplashImages } from '@/lib/utils';
 
 const sidebarItems = [

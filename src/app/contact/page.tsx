@@ -4,7 +4,7 @@ import { useState } from 'react';
 import { motion } from 'framer-motion';
 import { Mail, Phone, MapPin, Send, CheckCircle2, Twitter, Linkedin, Github } from 'lucide-react';
 import { PageHeader } from '@/components/PageHeader';
-import { Button } from '@/components/ui/Button';
+import { Button } from '@/components/ui/button';
 import { saveContactSubmission } from '@/lib/supabase';
 
 const services = [

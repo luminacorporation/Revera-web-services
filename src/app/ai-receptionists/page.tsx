@@ -19,7 +19,7 @@ import {
 import { PageHeader } from '@/components/PageHeader';
 import { Timeline } from '@/components/Timeline';
 import { CTA } from '@/components/CTA';
-import { Button } from '@/components/ui/Button';
+import { Button } from '@/components/ui/button';
 import { unsplashImages } from '@/lib/utils';
 
 const features = [

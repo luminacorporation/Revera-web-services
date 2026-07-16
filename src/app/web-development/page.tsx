@@ -16,7 +16,7 @@ import {
 } from 'lucide-react';
 import { PageHeader } from '@/components/PageHeader';
 import { CTA } from '@/components/CTA';
-import { Button } from '@/components/ui/Button';
+import { Button } from '@/components/ui/button';
 import { unsplashImages } from '@/lib/utils';
 
 const portfolio = [
